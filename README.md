@@ -15,3 +15,5 @@ Using the Darcy-Weisbach equation, it then calculates pressure drops along varyi
 Finally, it visualizes the velocity profile and pressure drop along the pipe length, indicating the entrance length for fully developed flow.
 
 User can understand this concept is mostly used in pipe flow desigining... Here I am sharing the full article which explains this phenomenon of calculating the friction factor across pipe.
+https://chemenggcalc.com/head-loss-or-pressure-loss-calculator/
+https://chemenggcalc.com/friction-factor-calculator-moodys-diagram/
